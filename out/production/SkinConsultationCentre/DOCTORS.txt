@@ -1,0 +1,4 @@
+Amal|Perera|2001-06-12|7788|M44444|Medical
+lasith|malinga|2001-09-12|1919|M33333|Cosmetic
+kusal|mendis|2000-11-09|188|M22222|Medical
+dasun|shanaka|2000-12-1|112|M11111|Cosmetic
